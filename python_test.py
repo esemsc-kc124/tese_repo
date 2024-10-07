@@ -15,3 +15,6 @@ def keercfunc(x):
 def newfuc(x):
     x^3
 
+def conflictornot(x):
+    x^5
+
