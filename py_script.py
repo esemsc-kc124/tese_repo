@@ -12,3 +12,6 @@ def xp3p(x):
 
 def xswl(x):
     return "ha"*30
+
+def xp4p(x):
+    return x+4*np.pi
