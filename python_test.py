@@ -7,3 +7,6 @@ def m2(x):
 
 def p1(x):
     return x+1
+
+def newfuc(x):
+    x^3
